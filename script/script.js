@@ -1,3 +1,5 @@
+console.log('hey joe')
+
 let cordaAtual = 0
 let duracao = document.getElementById('duracao')
 let concluido1 = document.getElementById('concluido1')
